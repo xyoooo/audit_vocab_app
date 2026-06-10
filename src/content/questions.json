@@ -1,0 +1,902 @@
+[
+  {
+    "id": "q-acc-1",
+    "unitId": "unit-accounting",
+    "vocabWordId": "asset",
+    "questionType": "meaning-mcq",
+    "questionText": "What does \"asset\" mean?",
+    "options": [
+      "liability",
+      "resource owned by a company",
+      "cost of running a business",
+      "owners' claim only"
+    ],
+    "correctAnswer": "resource owned by a company",
+    "explanation": "An asset is a resource controlled by a company that should bring future benefit."
+  },
+  {
+    "id": "q-acc-2",
+    "unitId": "unit-accounting",
+    "vocabWordId": "liability",
+    "questionType": "context-mcq",
+    "questionText": "The company has a legal obligation to repay a bank loan. This is recorded as a ______.",
+    "options": [
+      "revenue",
+      "liability",
+      "equity",
+      "dividend"
+    ],
+    "correctAnswer": "liability",
+    "explanation": "A loan payable is a present obligation, so it is a liability."
+  },
+  {
+    "id": "q-acc-3",
+    "unitId": "unit-accounting",
+    "vocabWordId": "equity",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means the owners' residual interest after liabilities are deducted?",
+    "options": [
+      "expense",
+      "equity",
+      "asset",
+      "revenue"
+    ],
+    "correctAnswer": "equity",
+    "explanation": "Equity equals assets minus liabilities."
+  },
+  {
+    "id": "q-acc-4",
+    "unitId": "unit-accounting",
+    "vocabWordId": "revenue",
+    "questionType": "similar-distinction",
+    "questionText": "Which word best describes money earned from selling goods or services?",
+    "options": [
+      "revenue",
+      "profit",
+      "cash",
+      "equity"
+    ],
+    "correctAnswer": "revenue",
+    "explanation": "Revenue is earned from sales before deducting expenses."
+  },
+  {
+    "id": "q-acc-5",
+    "unitId": "unit-accounting",
+    "vocabWordId": "expense",
+    "questionType": "context-mcq",
+    "questionText": "Rent, salaries, and utilities are usually recorded as ______.",
+    "options": [
+      "assets",
+      "expenses",
+      "equity",
+      "receivables"
+    ],
+    "correctAnswer": "expenses",
+    "explanation": "Expenses are costs incurred to operate the business or generate revenue."
+  },
+  {
+    "id": "q-acc-6",
+    "unitId": "unit-accounting",
+    "vocabWordId": "profit",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means the amount left after expenses are deducted from revenue?",
+    "options": [
+      "profit",
+      "liability",
+      "asset",
+      "sampling"
+    ],
+    "correctAnswer": "profit",
+    "explanation": "Profit is the remaining income after expenses."
+  },
+  {
+    "id": "q-acc-7",
+    "unitId": "unit-accounting",
+    "vocabWordId": "liability",
+    "questionType": "meaning-mcq",
+    "questionText": "What does \"liability\" mean?",
+    "options": [
+      "a present obligation",
+      "a customer invoice",
+      "sales income",
+      "cash in bank"
+    ],
+    "correctAnswer": "a present obligation",
+    "explanation": "Liabilities are obligations the company must settle."
+  },
+  {
+    "id": "q-acc-8",
+    "unitId": "unit-accounting",
+    "vocabWordId": "asset",
+    "questionType": "similar-distinction",
+    "questionText": "Which item is most likely an asset?",
+    "options": [
+      "bank loan",
+      "cash",
+      "salary cost",
+      "tax expense"
+    ],
+    "correctAnswer": "cash",
+    "explanation": "Cash is a resource owned by the company."
+  },
+  {
+    "id": "q-acc-9",
+    "unitId": "unit-accounting",
+    "vocabWordId": "revenue",
+    "questionType": "context-mcq",
+    "questionText": "A consulting firm bills clients for services performed. The amount billed is usually ______.",
+    "options": [
+      "revenue",
+      "liability",
+      "expense",
+      "equity"
+    ],
+    "correctAnswer": "revenue",
+    "explanation": "Fees earned from services are revenue."
+  },
+  {
+    "id": "q-acc-10",
+    "unitId": "unit-accounting",
+    "vocabWordId": "expense",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means a cost incurred to operate the business?",
+    "options": [
+      "asset",
+      "expense",
+      "profit",
+      "equity"
+    ],
+    "correctAnswer": "expense",
+    "explanation": "An expense is a business cost for the reporting period."
+  },
+  {
+    "id": "q-aud-1",
+    "unitId": "unit-audit",
+    "vocabWordId": "audit",
+    "questionType": "meaning-mcq",
+    "questionText": "What is an audit?",
+    "options": [
+      "a sales forecast",
+      "an independent examination",
+      "a tax payment",
+      "a loan agreement"
+    ],
+    "correctAnswer": "an independent examination",
+    "explanation": "An audit independently examines information or controls."
+  },
+  {
+    "id": "q-aud-2",
+    "unitId": "unit-audit",
+    "vocabWordId": "evidence",
+    "questionType": "context-mcq",
+    "questionText": "The auditor inspected invoices to support the recorded expense. The invoices are audit ______.",
+    "options": [
+      "materiality",
+      "evidence",
+      "sampling",
+      "opinion"
+    ],
+    "correctAnswer": "evidence",
+    "explanation": "Evidence supports audit conclusions."
+  },
+  {
+    "id": "q-aud-3",
+    "unitId": "unit-audit",
+    "vocabWordId": "materiality",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means the threshold at which an error could influence users' decisions?",
+    "options": [
+      "misstatement",
+      "materiality",
+      "internal control",
+      "working papers"
+    ],
+    "correctAnswer": "materiality",
+    "explanation": "Materiality is based on whether users' decisions may be affected."
+  },
+  {
+    "id": "q-aud-4",
+    "unitId": "unit-audit",
+    "vocabWordId": "internal control",
+    "questionType": "similar-distinction",
+    "questionText": "Which term describes procedures designed to reduce reporting risk?",
+    "options": [
+      "internal control",
+      "audit opinion",
+      "inventory",
+      "duration"
+    ],
+    "correctAnswer": "internal control",
+    "explanation": "Internal controls help prevent or detect errors."
+  },
+  {
+    "id": "q-aud-5",
+    "unitId": "unit-audit",
+    "vocabWordId": "sampling",
+    "questionType": "context-mcq",
+    "questionText": "Instead of checking every invoice, the auditor tested a selected subset. This is ______.",
+    "options": [
+      "sampling",
+      "profit",
+      "acquisition",
+      "liquidity"
+    ],
+    "correctAnswer": "sampling",
+    "explanation": "Sampling means testing part of a population."
+  },
+  {
+    "id": "q-aud-6",
+    "unitId": "unit-audit",
+    "vocabWordId": "misstatement",
+    "questionType": "meaning-mcq",
+    "questionText": "What does \"misstatement\" mean in audit?",
+    "options": [
+      "price movement",
+      "error or omission",
+      "owner investment",
+      "cash collection"
+    ],
+    "correctAnswer": "error or omission",
+    "explanation": "A misstatement is incorrect or missing financial information."
+  },
+  {
+    "id": "q-aud-7",
+    "unitId": "unit-audit",
+    "vocabWordId": "evidence",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means information used to support audit conclusions?",
+    "options": [
+      "evidence",
+      "revenue",
+      "yield",
+      "expense"
+    ],
+    "correctAnswer": "evidence",
+    "explanation": "Audit evidence is the support for the auditor's conclusion."
+  },
+  {
+    "id": "q-aud-8",
+    "unitId": "unit-audit",
+    "vocabWordId": "materiality",
+    "questionType": "context-mcq",
+    "questionText": "A tiny rounding error is unlikely to affect investor decisions, so it may be below ______.",
+    "options": [
+      "materiality",
+      "liquidity",
+      "equity",
+      "inventory"
+    ],
+    "correctAnswer": "materiality",
+    "explanation": "Errors below materiality are less likely to affect decisions."
+  },
+  {
+    "id": "q-aud-9",
+    "unitId": "unit-audit",
+    "vocabWordId": "internal control",
+    "questionType": "meaning-mcq",
+    "questionText": "What is an internal control?",
+    "options": [
+      "a price index",
+      "a risk-reducing process",
+      "a debt security",
+      "a profit target"
+    ],
+    "correctAnswer": "a risk-reducing process",
+    "explanation": "Internal controls are processes that reduce operational or reporting risks."
+  },
+  {
+    "id": "q-aud-10",
+    "unitId": "unit-audit",
+    "vocabWordId": "sampling",
+    "questionType": "similar-distinction",
+    "questionText": "Which term best fits testing 40 customer balances out of 2,000?",
+    "options": [
+      "sampling",
+      "recession",
+      "payable",
+      "duration"
+    ],
+    "correctAnswer": "sampling",
+    "explanation": "Testing a subset of balances is sampling."
+  },
+  {
+    "id": "q-fs-1",
+    "unitId": "unit-statements",
+    "vocabWordId": "balance sheet",
+    "questionType": "meaning-mcq",
+    "questionText": "What does a balance sheet show?",
+    "options": [
+      "assets, liabilities, and equity at a point in time",
+      "only cash paid during the month",
+      "sales calls made by staff",
+      "market share changes"
+    ],
+    "correctAnswer": "assets, liabilities, and equity at a point in time",
+    "explanation": "The balance sheet presents financial position at a specific date."
+  },
+  {
+    "id": "q-fs-2",
+    "unitId": "unit-statements",
+    "vocabWordId": "income statement",
+    "questionType": "context-mcq",
+    "questionText": "Revenue, expenses, and net profit are reported on the ______.",
+    "options": [
+      "balance sheet",
+      "income statement",
+      "purchase order",
+      "bond certificate"
+    ],
+    "correctAnswer": "income statement",
+    "explanation": "The income statement reports performance over a period."
+  },
+  {
+    "id": "q-fs-3",
+    "unitId": "unit-statements",
+    "vocabWordId": "cash flow statement",
+    "questionType": "reverse-mcq",
+    "questionText": "Which statement explains cash inflows and outflows during a period?",
+    "options": [
+      "cash flow statement",
+      "balance sheet",
+      "audit opinion",
+      "portfolio"
+    ],
+    "correctAnswer": "cash flow statement",
+    "explanation": "The cash flow statement focuses on cash movement."
+  },
+  {
+    "id": "q-fs-4",
+    "unitId": "unit-statements",
+    "vocabWordId": "receivable",
+    "questionType": "similar-distinction",
+    "questionText": "A customer owes the company for goods already delivered. This is a ______.",
+    "options": [
+      "payable",
+      "receivable",
+      "liability",
+      "expense"
+    ],
+    "correctAnswer": "receivable",
+    "explanation": "A receivable is money owed to the company."
+  },
+  {
+    "id": "q-fs-5",
+    "unitId": "unit-statements",
+    "vocabWordId": "payable",
+    "questionType": "context-mcq",
+    "questionText": "The company owes a supplier for materials purchased on credit. This is a ______.",
+    "options": [
+      "payable",
+      "receivable",
+      "revenue",
+      "portfolio"
+    ],
+    "correctAnswer": "payable",
+    "explanation": "A payable is an amount the company owes."
+  },
+  {
+    "id": "q-fs-6",
+    "unitId": "unit-statements",
+    "vocabWordId": "inventory",
+    "questionType": "meaning-mcq",
+    "questionText": "What is inventory?",
+    "options": [
+      "goods held for sale",
+      "interest paid to a bank",
+      "owners' residual claim",
+      "a completed audit file"
+    ],
+    "correctAnswer": "goods held for sale",
+    "explanation": "Inventory is goods or materials held for sale or production."
+  },
+  {
+    "id": "q-fs-7",
+    "unitId": "unit-statements",
+    "vocabWordId": "balance sheet",
+    "questionType": "reverse-mcq",
+    "questionText": "Which term means the statement of financial position?",
+    "options": [
+      "income statement",
+      "balance sheet",
+      "sampling",
+      "yield"
+    ],
+    "correctAnswer": "balance sheet",
+    "explanation": "The balance sheet is also called the statement of financial position."
+  },
+  {
+    "id": "q-fs-8",
+    "unitId": "unit-statements",
+    "vocabWordId": "cash flow statement",
+    "questionType": "similar-distinction",
+    "questionText": "Profit is positive, but cash collections are weak. Which statement helps explain the cash issue?",
+    "options": [
+      "cash flow statement",
+      "audit opinion",
+      "income statement",
+      "central bank"
+    ],
+    "correctAnswer": "cash flow statement",
+    "explanation": "The cash flow statement explains cash inflows and outflows."
+  },
+  {
+    "id": "q-fs-9",
+    "unitId": "unit-statements",
+    "vocabWordId": "receivable",
+    "questionType": "meaning-mcq",
+    "questionText": "What does \"receivable\" mean?",
+    "options": [
+      "money owed to the company",
+      "money the company owes",
+      "goods held for sale",
+      "market price volatility"
+    ],
+    "correctAnswer": "money owed to the company",
+    "explanation": "Receivables are amounts expected to be collected."
+  },
+  {
+    "id": "q-fs-10",
+    "unitId": "unit-statements",
+    "vocabWordId": "payable",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means an amount owed by the company to another party?",
+    "options": [
+      "payable",
+      "receivable",
+      "asset",
+      "revenue"
+    ],
+    "correctAnswer": "payable",
+    "explanation": "A payable is an obligation to pay another party."
+  },
+  {
+    "id": "q-aa-1",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "substantive testing",
+    "questionType": "meaning-mcq",
+    "questionText": "What is substantive testing designed to detect?",
+    "options": [
+      "material misstatements",
+      "stock price changes",
+      "loan interest only",
+      "staff attendance"
+    ],
+    "correctAnswer": "material misstatements",
+    "explanation": "Substantive testing looks for material misstatements in accounts or transactions."
+  },
+  {
+    "id": "q-aa-2",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "control testing",
+    "questionType": "context-mcq",
+    "questionText": "The auditor checks whether purchase approvals operated throughout the year. This is ______.",
+    "options": [
+      "control testing",
+      "substantive testing",
+      "yield analysis",
+      "inventory counting"
+    ],
+    "correctAnswer": "control testing",
+    "explanation": "Control testing evaluates whether controls operate effectively."
+  },
+  {
+    "id": "q-aa-3",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "going concern",
+    "questionType": "reverse-mcq",
+    "questionText": "Which term means the assumption that an entity can continue operating for the foreseeable future?",
+    "options": [
+      "going concern",
+      "audit evidence",
+      "duration",
+      "recession"
+    ],
+    "correctAnswer": "going concern",
+    "explanation": "Going concern is about the entity's ability to continue operations."
+  },
+  {
+    "id": "q-aa-4",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "audit opinion",
+    "questionType": "similar-distinction",
+    "questionText": "Which term describes the auditor's conclusion in the auditor's report?",
+    "options": [
+      "audit opinion",
+      "internal control",
+      "earnings",
+      "liquidity"
+    ],
+    "correctAnswer": "audit opinion",
+    "explanation": "The audit opinion communicates the auditor's conclusion."
+  },
+  {
+    "id": "q-aa-5",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "analytical procedures",
+    "questionType": "context-mcq",
+    "questionText": "The audit team compares gross margin trends against expectations. This is an example of ______.",
+    "options": [
+      "analytical procedures",
+      "sampling",
+      "acquisition",
+      "control testing only"
+    ],
+    "correctAnswer": "analytical procedures",
+    "explanation": "Analytical procedures use trends and relationships to evaluate information."
+  },
+  {
+    "id": "q-aa-6",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "working papers",
+    "questionType": "meaning-mcq",
+    "questionText": "What are audit working papers?",
+    "options": [
+      "audit documentation",
+      "shares purchased by auditors",
+      "customer marketing plans",
+      "bank interest rates"
+    ],
+    "correctAnswer": "audit documentation",
+    "explanation": "Working papers document audit work, evidence, and conclusions."
+  },
+  {
+    "id": "q-aa-7",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "substantive testing",
+    "questionType": "reverse-mcq",
+    "questionText": "Which phrase means procedures such as confirming receivables to detect misstatement?",
+    "options": [
+      "substantive testing",
+      "central banking",
+      "portfolio allocation",
+      "equity funding"
+    ],
+    "correctAnswer": "substantive testing",
+    "explanation": "Confirming balances is a substantive procedure."
+  },
+  {
+    "id": "q-aa-8",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "going concern",
+    "questionType": "context-mcq",
+    "questionText": "Severe cash shortages create doubt about whether the company can continue operating. This is a ______ issue.",
+    "options": [
+      "going concern",
+      "materiality",
+      "receivable",
+      "yield"
+    ],
+    "correctAnswer": "going concern",
+    "explanation": "Going concern issues relate to the ability to continue operations."
+  },
+  {
+    "id": "q-aa-9",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "analytical procedures",
+    "questionType": "meaning-mcq",
+    "questionText": "What are analytical procedures?",
+    "options": [
+      "evaluations using trends and relationships",
+      "payments to suppliers",
+      "shares owned by founders",
+      "a bond's legal contract"
+    ],
+    "correctAnswer": "evaluations using trends and relationships",
+    "explanation": "Analytical procedures compare recorded amounts with expectations."
+  },
+  {
+    "id": "q-aa-10",
+    "unitId": "unit-advanced-audit",
+    "vocabWordId": "working papers",
+    "questionType": "similar-distinction",
+    "questionText": "Which item should record audit evidence obtained and conclusions reached?",
+    "options": [
+      "working papers",
+      "income statement",
+      "market index",
+      "customer invoice only"
+    ],
+    "correctAnswer": "working papers",
+    "explanation": "Working papers are the audit file documentation."
+  },
+  {
+    "id": "q-cfa-1",
+    "unitId": "unit-cfa",
+    "vocabWordId": "bond",
+    "questionType": "meaning-mcq",
+    "questionText": "What is a bond?",
+    "options": [
+      "a debt security",
+      "an audit document",
+      "a sales invoice",
+      "a company expense"
+    ],
+    "correctAnswer": "a debt security",
+    "explanation": "A bond is a form of borrowing by the issuer."
+  },
+  {
+    "id": "q-cfa-2",
+    "unitId": "unit-cfa",
+    "vocabWordId": "yield",
+    "questionType": "context-mcq",
+    "questionText": "Bond prices fell as market ______ rose.",
+    "options": [
+      "yields",
+      "inventories",
+      "misstatements",
+      "payables"
+    ],
+    "correctAnswer": "yields",
+    "explanation": "Bond prices and yields generally move in opposite directions."
+  },
+  {
+    "id": "q-cfa-3",
+    "unitId": "unit-cfa",
+    "vocabWordId": "duration",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word measures a bond's sensitivity to interest-rate changes?",
+    "options": [
+      "duration",
+      "liquidity",
+      "portfolio",
+      "materiality"
+    ],
+    "correctAnswer": "duration",
+    "explanation": "Duration measures interest-rate sensitivity."
+  },
+  {
+    "id": "q-cfa-4",
+    "unitId": "unit-cfa",
+    "vocabWordId": "portfolio",
+    "questionType": "similar-distinction",
+    "questionText": "Which term describes a collection of investments held by an investor?",
+    "options": [
+      "portfolio",
+      "liability",
+      "audit opinion",
+      "payable"
+    ],
+    "correctAnswer": "portfolio",
+    "explanation": "A portfolio is a group of investments."
+  },
+  {
+    "id": "q-cfa-5",
+    "unitId": "unit-cfa",
+    "vocabWordId": "volatility",
+    "questionType": "meaning-mcq",
+    "questionText": "What does volatility describe?",
+    "options": [
+      "variation in price or return",
+      "money owed to suppliers",
+      "income from sales",
+      "audit documentation"
+    ],
+    "correctAnswer": "variation in price or return",
+    "explanation": "Volatility measures how much returns or prices fluctuate."
+  },
+  {
+    "id": "q-cfa-6",
+    "unitId": "unit-cfa",
+    "vocabWordId": "liquidity",
+    "questionType": "context-mcq",
+    "questionText": "An asset that can be sold quickly with little price impact has high ______.",
+    "options": [
+      "liquidity",
+      "duration",
+      "materiality",
+      "equity"
+    ],
+    "correctAnswer": "liquidity",
+    "explanation": "Liquidity is ease of buying or selling without large price impact."
+  },
+  {
+    "id": "q-cfa-7",
+    "unitId": "unit-cfa",
+    "vocabWordId": "yield",
+    "questionType": "meaning-mcq",
+    "questionText": "What does yield usually express?",
+    "options": [
+      "investment return as a percentage",
+      "audit error threshold",
+      "goods held for sale",
+      "a company takeover"
+    ],
+    "correctAnswer": "investment return as a percentage",
+    "explanation": "Yield expresses return, commonly as a percentage."
+  },
+  {
+    "id": "q-cfa-8",
+    "unitId": "unit-cfa",
+    "vocabWordId": "bond",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means a debt instrument issued to investors?",
+    "options": [
+      "bond",
+      "asset",
+      "recession",
+      "evidence"
+    ],
+    "correctAnswer": "bond",
+    "explanation": "A bond is a debt instrument."
+  },
+  {
+    "id": "q-cfa-9",
+    "unitId": "unit-cfa",
+    "vocabWordId": "volatility",
+    "questionType": "similar-distinction",
+    "questionText": "A stock moves sharply up and down every week. Which term best describes this?",
+    "options": [
+      "volatility",
+      "liquidity",
+      "revenue",
+      "sampling"
+    ],
+    "correctAnswer": "volatility",
+    "explanation": "Large price swings indicate high volatility."
+  },
+  {
+    "id": "q-cfa-10",
+    "unitId": "unit-cfa",
+    "vocabWordId": "portfolio",
+    "questionType": "context-mcq",
+    "questionText": "The fund's ______ includes equities, bonds, and cash.",
+    "options": [
+      "portfolio",
+      "misstatement",
+      "payable",
+      "opinion"
+    ],
+    "correctAnswer": "portfolio",
+    "explanation": "A portfolio contains multiple investments."
+  },
+  {
+    "id": "q-mkt-1",
+    "unitId": "unit-market",
+    "vocabWordId": "inflation",
+    "questionType": "meaning-mcq",
+    "questionText": "What is inflation?",
+    "options": [
+      "a general rise in prices",
+      "a company purchase",
+      "an audit conclusion",
+      "a supplier debt"
+    ],
+    "correctAnswer": "a general rise in prices",
+    "explanation": "Inflation means broad price increases that reduce purchasing power."
+  },
+  {
+    "id": "q-mkt-2",
+    "unitId": "unit-market",
+    "vocabWordId": "interest rate",
+    "questionType": "context-mcq",
+    "questionText": "The central bank raised the ______ to cool inflation.",
+    "options": [
+      "interest rate",
+      "inventory",
+      "receivable",
+      "audit opinion"
+    ],
+    "correctAnswer": "interest rate",
+    "explanation": "Central banks often adjust interest rates to influence inflation."
+  },
+  {
+    "id": "q-mkt-3",
+    "unitId": "unit-market",
+    "vocabWordId": "recession",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means a significant decline in economic activity?",
+    "options": [
+      "recession",
+      "acquisition",
+      "earnings",
+      "yield"
+    ],
+    "correctAnswer": "recession",
+    "explanation": "A recession is a broad economic downturn."
+  },
+  {
+    "id": "q-mkt-4",
+    "unitId": "unit-market",
+    "vocabWordId": "central bank",
+    "questionType": "similar-distinction",
+    "questionText": "Which institution manages monetary policy?",
+    "options": [
+      "central bank",
+      "audit committee",
+      "supplier",
+      "investment portfolio"
+    ],
+    "correctAnswer": "central bank",
+    "explanation": "A central bank manages monetary policy and financial stability."
+  },
+  {
+    "id": "q-mkt-5",
+    "unitId": "unit-market",
+    "vocabWordId": "earnings",
+    "questionType": "meaning-mcq",
+    "questionText": "What do earnings usually mean in market news?",
+    "options": [
+      "company profit",
+      "cash paid to suppliers",
+      "items held for sale",
+      "audit samples"
+    ],
+    "correctAnswer": "company profit",
+    "explanation": "Earnings usually refer to company profit."
+  },
+  {
+    "id": "q-mkt-6",
+    "unitId": "unit-market",
+    "vocabWordId": "acquisition",
+    "questionType": "context-mcq",
+    "questionText": "One company bought another to expand market share. This transaction is an ______.",
+    "options": [
+      "acquisition",
+      "expense",
+      "inflation",
+      "internal control"
+    ],
+    "correctAnswer": "acquisition",
+    "explanation": "An acquisition happens when one company buys another."
+  },
+  {
+    "id": "q-mkt-7",
+    "unitId": "unit-market",
+    "vocabWordId": "interest rate",
+    "questionType": "meaning-mcq",
+    "questionText": "What is an interest rate?",
+    "options": [
+      "cost of borrowing or return on lending",
+      "error in financial statements",
+      "goods for resale",
+      "owner's residual claim"
+    ],
+    "correctAnswer": "cost of borrowing or return on lending",
+    "explanation": "Interest rates represent borrowing costs or lending returns."
+  },
+  {
+    "id": "q-mkt-8",
+    "unitId": "unit-market",
+    "vocabWordId": "inflation",
+    "questionType": "similar-distinction",
+    "questionText": "Consumer prices rise across food, rent, and transport. Which term best fits?",
+    "options": [
+      "inflation",
+      "duration",
+      "materiality",
+      "profit"
+    ],
+    "correctAnswer": "inflation",
+    "explanation": "Broad price increases across the economy are inflation."
+  },
+  {
+    "id": "q-mkt-9",
+    "unitId": "unit-market",
+    "vocabWordId": "earnings",
+    "questionType": "context-mcq",
+    "questionText": "The company reported stronger quarterly ______ than analysts expected.",
+    "options": [
+      "earnings",
+      "sampling",
+      "payables",
+      "controls"
+    ],
+    "correctAnswer": "earnings",
+    "explanation": "Quarterly earnings are a common measure of company profit."
+  },
+  {
+    "id": "q-mkt-10",
+    "unitId": "unit-market",
+    "vocabWordId": "acquisition",
+    "questionType": "reverse-mcq",
+    "questionText": "Which word means buying another company or business?",
+    "options": [
+      "acquisition",
+      "recession",
+      "liquidity",
+      "expense"
+    ],
+    "correctAnswer": "acquisition",
+    "explanation": "An acquisition is a purchase of another company or asset."
+  }
+]

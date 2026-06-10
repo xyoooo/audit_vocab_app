@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "content:generate": "node tools/content-generator/generate.mjs",
+    "content:index": "node tools/content-generator/build-generated-index.mjs",
+    "content:merge": "node tools/content-generator/merge-draft.mjs"
   },
   "dependencies": {
     "next": "14.2.4",

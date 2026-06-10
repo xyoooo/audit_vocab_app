@@ -1,0 +1,92 @@
+[
+  {
+    "id": "unit-accounting",
+    "title": "Accounting Basics",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "orderIndex": 1,
+    "wordIds": [
+      "asset",
+      "liability",
+      "equity",
+      "revenue",
+      "expense",
+      "profit"
+    ]
+  },
+  {
+    "id": "unit-audit",
+    "title": "Audit Basics",
+    "category": "Audit Basics",
+    "difficulty": "Intermediate",
+    "orderIndex": 2,
+    "wordIds": [
+      "audit",
+      "evidence",
+      "materiality",
+      "internal control",
+      "sampling",
+      "misstatement"
+    ]
+  },
+  {
+    "id": "unit-statements",
+    "title": "Financial Statements",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "orderIndex": 3,
+    "wordIds": [
+      "balance sheet",
+      "income statement",
+      "cash flow statement",
+      "receivable",
+      "payable",
+      "inventory"
+    ]
+  },
+  {
+    "id": "unit-advanced-audit",
+    "title": "Advanced Audit",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Advanced",
+    "orderIndex": 4,
+    "wordIds": [
+      "substantive testing",
+      "control testing",
+      "going concern",
+      "audit opinion",
+      "analytical procedures",
+      "working papers"
+    ]
+  },
+  {
+    "id": "unit-cfa",
+    "title": "CFA Finance Basics",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Intermediate",
+    "orderIndex": 5,
+    "wordIds": [
+      "bond",
+      "yield",
+      "duration",
+      "portfolio",
+      "volatility",
+      "liquidity"
+    ]
+  },
+  {
+    "id": "unit-market",
+    "title": "Market Vocabulary",
+    "category": "Market Vocabulary",
+    "difficulty": "Intermediate",
+    "orderIndex": 6,
+    "wordIds": [
+      "inflation",
+      "interest rate",
+      "recession",
+      "central bank",
+      "earnings",
+      "acquisition"
+    ]
+  }
+]

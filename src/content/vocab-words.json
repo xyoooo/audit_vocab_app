@@ -1,0 +1,501 @@
+[
+  {
+    "id": "asset",
+    "word": "asset",
+    "chineseMeaning": "资产",
+    "englishDefinition": "A resource owned or controlled by a company that is expected to provide future economic benefit.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Cash is an asset on the balance sheet.",
+    "relatedWords": [
+      "resource",
+      "property"
+    ],
+    "commonMistake": "Do not confuse an asset with revenue; revenue is earned during a period."
+  },
+  {
+    "id": "liability",
+    "word": "liability",
+    "chineseMeaning": "负债",
+    "englishDefinition": "A present obligation that a company is expected to settle in the future.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "A bank loan is recorded as a liability.",
+    "relatedWords": [
+      "obligation",
+      "debt"
+    ],
+    "commonMistake": "A liability is not an expense, although paying it may involve cash outflow."
+  },
+  {
+    "id": "equity",
+    "word": "equity",
+    "chineseMeaning": "所有者权益",
+    "englishDefinition": "The owners' residual interest in assets after liabilities are deducted.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Retained earnings increase equity.",
+    "relatedWords": [
+      "capital",
+      "net assets"
+    ],
+    "commonMistake": "Equity is not the same as cash."
+  },
+  {
+    "id": "revenue",
+    "word": "revenue",
+    "chineseMeaning": "收入",
+    "englishDefinition": "Income earned from normal business activities such as selling goods or services.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Subscription fees are revenue for a software company.",
+    "relatedWords": [
+      "sales",
+      "turnover"
+    ],
+    "commonMistake": "Revenue is before deducting expenses; profit is after."
+  },
+  {
+    "id": "expense",
+    "word": "expense",
+    "chineseMeaning": "费用",
+    "englishDefinition": "A cost incurred to generate revenue or run the business.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Rent and salaries are common expenses.",
+    "relatedWords": [
+      "cost",
+      "charge"
+    ],
+    "commonMistake": "An expense is not always paid immediately in cash."
+  },
+  {
+    "id": "profit",
+    "word": "profit",
+    "chineseMeaning": "利润",
+    "englishDefinition": "The amount left after expenses are deducted from revenue.",
+    "category": "Accounting Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Higher costs reduced the company's profit.",
+    "relatedWords": [
+      "earnings",
+      "income"
+    ],
+    "commonMistake": "Profit is different from revenue and cash flow."
+  },
+  {
+    "id": "audit",
+    "word": "audit",
+    "chineseMeaning": "审计",
+    "englishDefinition": "An independent examination of financial information or controls.",
+    "category": "Audit Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "The audit team reviewed invoices and contracts.",
+    "relatedWords": [
+      "inspection",
+      "assurance"
+    ],
+    "commonMistake": "An audit provides reasonable assurance, not a guarantee."
+  },
+  {
+    "id": "evidence",
+    "word": "evidence",
+    "chineseMeaning": "证据",
+    "englishDefinition": "Information used by auditors to support their conclusions.",
+    "category": "Audit Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "Bank confirmations are strong audit evidence.",
+    "relatedWords": [
+      "support",
+      "documentation"
+    ],
+    "commonMistake": "Evidence must be relevant and reliable."
+  },
+  {
+    "id": "materiality",
+    "word": "materiality",
+    "chineseMeaning": "重要性",
+    "englishDefinition": "The threshold at which an error could influence users' decisions.",
+    "category": "Audit Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The auditor set materiality before testing began.",
+    "relatedWords": [
+      "significance",
+      "threshold"
+    ],
+    "commonMistake": "Materiality is judgment-based, not a fixed percentage for every audit."
+  },
+  {
+    "id": "internal control",
+    "word": "internal control",
+    "chineseMeaning": "内部控制",
+    "englishDefinition": "Processes designed to reduce risk and support reliable reporting.",
+    "category": "Audit Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "Segregation of duties is an internal control.",
+    "relatedWords": [
+      "control environment",
+      "procedure"
+    ],
+    "commonMistake": "Controls reduce risk but do not eliminate it."
+  },
+  {
+    "id": "sampling",
+    "word": "sampling",
+    "chineseMeaning": "抽样",
+    "englishDefinition": "Testing a subset of items to draw conclusions about a population.",
+    "category": "Audit Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The auditor used sampling to test expense claims.",
+    "relatedWords": [
+      "sample selection",
+      "population"
+    ],
+    "commonMistake": "Sampling risk remains because not every item is tested."
+  },
+  {
+    "id": "misstatement",
+    "word": "misstatement",
+    "chineseMeaning": "错报",
+    "englishDefinition": "An error or omission in financial information.",
+    "category": "Audit Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The team found a material misstatement in revenue.",
+    "relatedWords": [
+      "error",
+      "omission"
+    ],
+    "commonMistake": "Misstatements may be caused by error or fraud."
+  },
+  {
+    "id": "balance sheet",
+    "word": "balance sheet",
+    "chineseMeaning": "资产负债表",
+    "englishDefinition": "A statement showing assets, liabilities, and equity at a point in time.",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "exampleSentence": "The balance sheet showed strong cash reserves.",
+    "relatedWords": [
+      "statement of financial position"
+    ],
+    "commonMistake": "It is a point-in-time statement, unlike the income statement."
+  },
+  {
+    "id": "income statement",
+    "word": "income statement",
+    "chineseMeaning": "利润表",
+    "englishDefinition": "A statement showing revenue, expenses, and profit over a period.",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "exampleSentence": "The income statement reported a net loss.",
+    "relatedWords": [
+      "profit and loss",
+      "P&L"
+    ],
+    "commonMistake": "It does not directly show cash movements."
+  },
+  {
+    "id": "cash flow statement",
+    "word": "cash flow statement",
+    "chineseMeaning": "现金流量表",
+    "englishDefinition": "A statement explaining cash inflows and outflows during a period.",
+    "category": "Business English Core",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The cash flow statement separated operating and financing cash flows.",
+    "relatedWords": [
+      "statement of cash flows"
+    ],
+    "commonMistake": "Profit can be positive while operating cash flow is weak."
+  },
+  {
+    "id": "receivable",
+    "word": "receivable",
+    "chineseMeaning": "应收款",
+    "englishDefinition": "An amount owed to a company by customers or other parties.",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "exampleSentence": "The receivable was collected after 45 days.",
+    "relatedWords": [
+      "accounts receivable",
+      "debtor"
+    ],
+    "commonMistake": "Receivable means money to be received, not paid."
+  },
+  {
+    "id": "payable",
+    "word": "payable",
+    "chineseMeaning": "应付款",
+    "englishDefinition": "An amount a company owes to suppliers or other parties.",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "exampleSentence": "The payable is due next month.",
+    "relatedWords": [
+      "accounts payable",
+      "creditor"
+    ],
+    "commonMistake": "Payable means money owed by the company."
+  },
+  {
+    "id": "inventory",
+    "word": "inventory",
+    "chineseMeaning": "存货",
+    "englishDefinition": "Goods held for sale or materials used in production.",
+    "category": "Business English Core",
+    "difficulty": "Beginner",
+    "exampleSentence": "Slow-moving inventory may need a write-down.",
+    "relatedWords": [
+      "stock",
+      "goods"
+    ],
+    "commonMistake": "Inventory is an asset until sold or written down."
+  },
+  {
+    "id": "substantive testing",
+    "word": "substantive testing",
+    "chineseMeaning": "实质性测试",
+    "englishDefinition": "Audit procedures designed to detect material misstatements in balances or transactions.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Advanced",
+    "exampleSentence": "Substantive testing included confirming receivables.",
+    "relatedWords": [
+      "detail testing",
+      "substantive procedures"
+    ],
+    "commonMistake": "It is different from testing whether controls operate effectively."
+  },
+  {
+    "id": "control testing",
+    "word": "control testing",
+    "chineseMeaning": "控制测试",
+    "englishDefinition": "Audit work that evaluates whether internal controls are designed and operating effectively.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Advanced",
+    "exampleSentence": "Control testing covered purchase approval workflows.",
+    "relatedWords": [
+      "test of controls"
+    ],
+    "commonMistake": "Passing control testing may reduce, not remove, substantive testing."
+  },
+  {
+    "id": "going concern",
+    "word": "going concern",
+    "chineseMeaning": "持续经营",
+    "englishDefinition": "The assumption that an entity can continue operating for the foreseeable future.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Advanced",
+    "exampleSentence": "Debt covenant breaches raised going concern concerns.",
+    "relatedWords": [
+      "continuity",
+      "viability"
+    ],
+    "commonMistake": "It is an assumption about future operation, not current profitability only."
+  },
+  {
+    "id": "audit opinion",
+    "word": "audit opinion",
+    "chineseMeaning": "审计意见",
+    "englishDefinition": "The auditor's conclusion on whether financial statements are fairly presented.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Advanced",
+    "exampleSentence": "The company received an unmodified audit opinion.",
+    "relatedWords": [
+      "auditor's report",
+      "opinion"
+    ],
+    "commonMistake": "An unmodified opinion does not mean the business is risk-free."
+  },
+  {
+    "id": "analytical procedures",
+    "word": "analytical procedures",
+    "chineseMeaning": "分析程序",
+    "englishDefinition": "Evaluations of financial information through relationships, trends, and expectations.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Intermediate",
+    "exampleSentence": "Analytical procedures compared margin trends across quarters.",
+    "relatedWords": [
+      "ratio analysis",
+      "trend analysis"
+    ],
+    "commonMistake": "They can identify risk but may not provide enough evidence alone."
+  },
+  {
+    "id": "working papers",
+    "word": "working papers",
+    "chineseMeaning": "审计工作底稿",
+    "englishDefinition": "Documents that record audit work performed, evidence obtained, and conclusions reached.",
+    "category": "Advanced Audit / Assurance",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The manager reviewed the working papers.",
+    "relatedWords": [
+      "audit files",
+      "documentation"
+    ],
+    "commonMistake": "Working papers support the audit opinion; they are not client reports."
+  },
+  {
+    "id": "bond",
+    "word": "bond",
+    "chineseMeaning": "债券",
+    "englishDefinition": "A debt security in which an issuer promises payments to investors.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "The government issued a ten-year bond.",
+    "relatedWords": [
+      "fixed income",
+      "debt instrument"
+    ],
+    "commonMistake": "A bond is debt, not ownership equity."
+  },
+  {
+    "id": "yield",
+    "word": "yield",
+    "chineseMeaning": "收益率",
+    "englishDefinition": "The return an investor earns on a security, often expressed as a percentage.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "Bond prices fell as yields rose.",
+    "relatedWords": [
+      "return",
+      "rate"
+    ],
+    "commonMistake": "Yield and coupon are related but not always equal."
+  },
+  {
+    "id": "duration",
+    "word": "duration",
+    "chineseMeaning": "久期",
+    "englishDefinition": "A measure of a bond's sensitivity to interest-rate changes.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Advanced",
+    "exampleSentence": "Long-duration bonds are more sensitive to rate changes.",
+    "relatedWords": [
+      "interest-rate sensitivity"
+    ],
+    "commonMistake": "Duration is not simply the bond's maturity."
+  },
+  {
+    "id": "portfolio",
+    "word": "portfolio",
+    "chineseMeaning": "投资组合",
+    "englishDefinition": "A collection of investments held by an investor or fund.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Beginner",
+    "exampleSentence": "The portfolio includes bonds and equities.",
+    "relatedWords": [
+      "holdings",
+      "allocation"
+    ],
+    "commonMistake": "A portfolio can contain many asset classes."
+  },
+  {
+    "id": "volatility",
+    "word": "volatility",
+    "chineseMeaning": "波动率",
+    "englishDefinition": "The degree of variation in an asset's price or return.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "High volatility makes returns less predictable.",
+    "relatedWords": [
+      "risk",
+      "fluctuation"
+    ],
+    "commonMistake": "Volatility is not the same as permanent loss."
+  },
+  {
+    "id": "liquidity",
+    "word": "liquidity",
+    "chineseMeaning": "流动性",
+    "englishDefinition": "How easily an asset can be bought or sold without large price impact.",
+    "category": "CFA / Finance Basics",
+    "difficulty": "Intermediate",
+    "exampleSentence": "Treasury bills usually have high liquidity.",
+    "relatedWords": [
+      "marketability",
+      "cashability"
+    ],
+    "commonMistake": "Liquidity is about ease of trading, not profitability."
+  },
+  {
+    "id": "inflation",
+    "word": "inflation",
+    "chineseMeaning": "通货膨胀",
+    "englishDefinition": "A general rise in prices that reduces purchasing power.",
+    "category": "Market Vocabulary",
+    "difficulty": "Beginner",
+    "exampleSentence": "Inflation increased household costs.",
+    "relatedWords": [
+      "price growth",
+      "CPI"
+    ],
+    "commonMistake": "Inflation is a broad price trend, not one product becoming expensive."
+  },
+  {
+    "id": "interest rate",
+    "word": "interest rate",
+    "chineseMeaning": "利率",
+    "englishDefinition": "The cost of borrowing money or the return on lending money.",
+    "category": "Market Vocabulary",
+    "difficulty": "Beginner",
+    "exampleSentence": "The central bank raised the interest rate.",
+    "relatedWords": [
+      "borrowing cost",
+      "policy rate"
+    ],
+    "commonMistake": "Interest rate changes affect bonds, loans, and currencies."
+  },
+  {
+    "id": "recession",
+    "word": "recession",
+    "chineseMeaning": "经济衰退",
+    "englishDefinition": "A significant decline in economic activity across the economy.",
+    "category": "Market Vocabulary",
+    "difficulty": "Intermediate",
+    "exampleSentence": "Demand weakened during the recession.",
+    "relatedWords": [
+      "downturn",
+      "contraction"
+    ],
+    "commonMistake": "A recession is broader than one company's poor performance."
+  },
+  {
+    "id": "central bank",
+    "word": "central bank",
+    "chineseMeaning": "中央银行",
+    "englishDefinition": "An institution that manages monetary policy and financial stability.",
+    "category": "Market Vocabulary",
+    "difficulty": "Beginner",
+    "exampleSentence": "The central bank signaled a slower pace of rate hikes.",
+    "relatedWords": [
+      "monetary authority"
+    ],
+    "commonMistake": "A central bank is not a commercial bank."
+  },
+  {
+    "id": "earnings",
+    "word": "earnings",
+    "chineseMeaning": "盈利",
+    "englishDefinition": "A company's profit, often reported quarterly or annually.",
+    "category": "Market Vocabulary",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The share price rose after strong earnings.",
+    "relatedWords": [
+      "profit",
+      "net income"
+    ],
+    "commonMistake": "Earnings are not the same as revenue."
+  },
+  {
+    "id": "acquisition",
+    "word": "acquisition",
+    "chineseMeaning": "收购",
+    "englishDefinition": "A transaction in which one company buys another company or asset.",
+    "category": "Market Vocabulary",
+    "difficulty": "Intermediate",
+    "exampleSentence": "The acquisition expanded the group's market share.",
+    "relatedWords": [
+      "takeover",
+      "purchase"
+    ],
+    "commonMistake": "An acquisition differs from organic growth."
+  }
+]

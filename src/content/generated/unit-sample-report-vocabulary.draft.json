@@ -1,0 +1,509 @@
+{
+  "source": {
+    "type": "text-file",
+    "title": "sample-report.txt",
+    "path": "materials/sample-report.txt",
+    "generatedAt": "2026-06-10T10:33:49.600Z"
+  },
+  "unit": {
+    "id": "unit-sample-report-vocabulary",
+    "title": "Sample Report Vocabulary",
+    "category": "Business English Core",
+    "difficulty": "Intermediate",
+    "orderIndex": 7,
+    "wordIds": [
+      "accounts-receivable",
+      "capital-expenditures",
+      "cost-of-sales",
+      "credit-risk",
+      "deferred-revenue",
+      "fair-value",
+      "foreign-currency",
+      "free-cash-flow"
+    ]
+  },
+  "vocabWords": [
+    {
+      "id": "accounts-receivable",
+      "word": "accounts receivable",
+      "chineseMeaning": "应收账款",
+      "englishDefinition": "Amounts owed by customers for goods or services already provided.",
+      "category": "Business English Core",
+      "difficulty": "Beginner",
+      "exampleSentence": "The notes to the financial statements discuss accounts receivable, inventory, deferred revenue, and revenue recognition.",
+      "relatedWords": [
+        "receivable",
+        "customer balance",
+        "credit sales"
+      ],
+      "commonMistake": "Accounts receivable means money owed to the company, not money the company owes."
+    },
+    {
+      "id": "capital-expenditures",
+      "word": "capital expenditures",
+      "chineseMeaning": "资本支出",
+      "englishDefinition": "Spending to acquire, improve, or maintain long-term assets.",
+      "category": "CFA / Finance Basics",
+      "difficulty": "Intermediate",
+      "exampleSentence": "Management noted that liquidity remained strong because operating cash flow exceeded capital expenditures, resulting in positive free cash flow.",
+      "relatedWords": [
+        "property and equipment",
+        "cash flows",
+        "investment"
+      ],
+      "commonMistake": "Capital expenditures are usually capitalized rather than expensed immediately."
+    },
+    {
+      "id": "cost-of-sales",
+      "word": "cost of sales",
+      "chineseMeaning": "销售成本",
+      "englishDefinition": "The direct cost of products or services sold during a period.",
+      "category": "Accounting Basics",
+      "difficulty": "Beginner",
+      "exampleSentence": "Gross margin improved because cost of sales grew more slowly than revenue.",
+      "relatedWords": [
+        "cost of revenue",
+        "gross margin",
+        "inventory"
+      ],
+      "commonMistake": "Cost of sales is not the same as all operating expenses."
+    },
+    {
+      "id": "credit-risk",
+      "word": "credit risk",
+      "chineseMeaning": "信用风险",
+      "englishDefinition": "The risk that a counterparty will fail to meet its financial obligations.",
+      "category": "CFA / Finance Basics",
+      "difficulty": "Intermediate",
+      "exampleSentence": "The report also discusses foreign currency exposure, interest rate risk, credit risk, fair value measurements, derivatives, and contingencies.",
+      "relatedWords": [
+        "default",
+        "counterparty",
+        "allowance for credit losses"
+      ],
+      "commonMistake": "Credit risk is about failure to pay, not market price volatility."
+    },
+    {
+      "id": "deferred-revenue",
+      "word": "deferred revenue",
+      "chineseMeaning": "递延收入",
+      "englishDefinition": "Cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+      "category": "Accounting Basics",
+      "difficulty": "Intermediate",
+      "exampleSentence": "The notes to the financial statements discuss accounts receivable, inventory, deferred revenue, and revenue recognition.",
+      "relatedWords": [
+        "contract liability",
+        "revenue recognition",
+        "advance payment"
+      ],
+      "commonMistake": "Deferred revenue is a liability, not revenue that has already been earned."
+    },
+    {
+      "id": "fair-value",
+      "word": "fair value",
+      "chineseMeaning": "公允价值",
+      "englishDefinition": "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+      "category": "Accounting Basics",
+      "difficulty": "Advanced",
+      "exampleSentence": "The report also discusses foreign currency exposure, interest rate risk, credit risk, fair value measurements, derivatives, and contingencies.",
+      "relatedWords": [
+        "valuation",
+        "market price",
+        "measurement"
+      ],
+      "commonMistake": "Fair value is not always the same as historical cost."
+    },
+    {
+      "id": "foreign-currency",
+      "word": "foreign currency",
+      "chineseMeaning": "外币",
+      "englishDefinition": "A currency other than the entity's functional or reporting currency.",
+      "category": "Market Vocabulary",
+      "difficulty": "Intermediate",
+      "exampleSentence": "The report also discusses foreign currency exposure, interest rate risk, credit risk, fair value measurements, derivatives, and contingencies.",
+      "relatedWords": [
+        "exchange rate",
+        "translation",
+        "hedging"
+      ],
+      "commonMistake": "Foreign currency effects can affect reported results even without a change in unit sales."
+    },
+    {
+      "id": "free-cash-flow",
+      "word": "free cash flow",
+      "chineseMeaning": "自由现金流",
+      "englishDefinition": "Cash generated by operations after capital expenditures.",
+      "category": "CFA / Finance Basics",
+      "difficulty": "Intermediate",
+      "exampleSentence": "Management noted that liquidity remained strong because operating cash flow exceeded capital expenditures, resulting in positive free cash flow.",
+      "relatedWords": [
+        "operating cash flow",
+        "capital expenditures",
+        "liquidity"
+      ],
+      "commonMistake": "Free cash flow is not the same as accounting profit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-sample-report-vocabulary-accounts-receivable-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "accounts-receivable",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"accounts receivable\" mean?",
+      "options": [
+        "Amounts owed by customers for goods or services already provided.",
+        "The risk that a counterparty will fail to meet its financial obligations.",
+        "Spending to acquire, improve, or maintain long-term assets.",
+        "The direct cost of products or services sold during a period."
+      ],
+      "correctAnswer": "Amounts owed by customers for goods or services already provided.",
+      "explanation": "accounts receivable means amounts owed by customers for goods or services already provided."
+    },
+    {
+      "id": "q-sample-report-vocabulary-accounts-receivable-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "accounts-receivable",
+      "questionType": "context-mcq",
+      "questionText": "The notes to the financial statements discuss ______, inventory, deferred revenue, and revenue recognition.",
+      "options": [
+        "cost of sales",
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures"
+      ],
+      "correctAnswer": "accounts receivable",
+      "explanation": "The sentence describes accounts receivable: Amounts owed by customers for goods or services already provided."
+    },
+    {
+      "id": "q-sample-report-vocabulary-accounts-receivable-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "accounts-receivable",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: amounts owed by customers for goods or services already provided.",
+      "options": [
+        "cost of sales",
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures"
+      ],
+      "correctAnswer": "accounts receivable",
+      "explanation": "accounts receivable is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-capital-expenditures-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "capital-expenditures",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"capital expenditures\" mean?",
+      "options": [
+        "Cash generated by operations after capital expenditures.",
+        "Amounts owed by customers for goods or services already provided.",
+        "The risk that a counterparty will fail to meet its financial obligations.",
+        "Spending to acquire, improve, or maintain long-term assets."
+      ],
+      "correctAnswer": "Spending to acquire, improve, or maintain long-term assets.",
+      "explanation": "capital expenditures means spending to acquire, improve, or maintain long-term assets."
+    },
+    {
+      "id": "q-sample-report-vocabulary-capital-expenditures-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "capital-expenditures",
+      "questionType": "context-mcq",
+      "questionText": "Management noted that liquidity remained strong because operating cash flow exceeded ______, resulting in positive free cash flow.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "capital expenditures",
+      "explanation": "The sentence describes capital expenditures: Spending to acquire, improve, or maintain long-term assets."
+    },
+    {
+      "id": "q-sample-report-vocabulary-capital-expenditures-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "capital-expenditures",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: spending to acquire, improve, or maintain long-term assets.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "capital expenditures",
+      "explanation": "capital expenditures is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-cost-of-sales-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "cost-of-sales",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"cost of sales\" mean?",
+      "options": [
+        "Amounts owed by customers for goods or services already provided.",
+        "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+        "Cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+        "The direct cost of products or services sold during a period."
+      ],
+      "correctAnswer": "The direct cost of products or services sold during a period.",
+      "explanation": "cost of sales means the direct cost of products or services sold during a period."
+    },
+    {
+      "id": "q-sample-report-vocabulary-cost-of-sales-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "cost-of-sales",
+      "questionType": "context-mcq",
+      "questionText": "Gross margin improved because ______ grew more slowly than revenue.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "cost of sales",
+      "explanation": "The sentence describes cost of sales: The direct cost of products or services sold during a period."
+    },
+    {
+      "id": "q-sample-report-vocabulary-cost-of-sales-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "cost-of-sales",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: the direct cost of products or services sold during a period.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "cost of sales",
+      "explanation": "cost of sales is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-credit-risk-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "credit-risk",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"credit risk\" mean?",
+      "options": [
+        "Cash generated by operations after capital expenditures.",
+        "Amounts owed by customers for goods or services already provided.",
+        "The risk that a counterparty will fail to meet its financial obligations.",
+        "Spending to acquire, improve, or maintain long-term assets."
+      ],
+      "correctAnswer": "The risk that a counterparty will fail to meet its financial obligations.",
+      "explanation": "credit risk means the risk that a counterparty will fail to meet its financial obligations."
+    },
+    {
+      "id": "q-sample-report-vocabulary-credit-risk-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "credit-risk",
+      "questionType": "context-mcq",
+      "questionText": "The report also discusses foreign currency exposure, interest rate risk, ______, fair value measurements, derivatives, and contingencies.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "credit risk",
+      "explanation": "The sentence describes credit risk: The risk that a counterparty will fail to meet its financial obligations."
+    },
+    {
+      "id": "q-sample-report-vocabulary-credit-risk-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "credit-risk",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: the risk that a counterparty will fail to meet its financial obligations.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "credit risk",
+      "explanation": "credit risk is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-deferred-revenue-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "deferred-revenue",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"deferred revenue\" mean?",
+      "options": [
+        "Amounts owed by customers for goods or services already provided.",
+        "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+        "Cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+        "The direct cost of products or services sold during a period."
+      ],
+      "correctAnswer": "Cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+      "explanation": "deferred revenue means cash received before goods or services are delivered, recorded as a liability until revenue is earned."
+    },
+    {
+      "id": "q-sample-report-vocabulary-deferred-revenue-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "deferred-revenue",
+      "questionType": "context-mcq",
+      "questionText": "The notes to the financial statements discuss accounts receivable, inventory, ______, and revenue recognition.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "deferred revenue",
+      "explanation": "The sentence describes deferred revenue: Cash received before goods or services are delivered, recorded as a liability until revenue is earned."
+    },
+    {
+      "id": "q-sample-report-vocabulary-deferred-revenue-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "deferred-revenue",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "deferred revenue",
+      "explanation": "deferred revenue is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-fair-value-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "fair-value",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"fair value\" mean?",
+      "options": [
+        "Amounts owed by customers for goods or services already provided.",
+        "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+        "Cash received before goods or services are delivered, recorded as a liability until revenue is earned.",
+        "The direct cost of products or services sold during a period."
+      ],
+      "correctAnswer": "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+      "explanation": "fair value means the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction."
+    },
+    {
+      "id": "q-sample-report-vocabulary-fair-value-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "fair-value",
+      "questionType": "context-mcq",
+      "questionText": "The report also discusses foreign currency exposure, interest rate risk, credit risk, ______ measurements, derivatives, and contingencies.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "fair value",
+      "explanation": "The sentence describes fair value: The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction."
+    },
+    {
+      "id": "q-sample-report-vocabulary-fair-value-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "fair-value",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction.",
+      "options": [
+        "deferred revenue",
+        "cost of sales",
+        "accounts receivable",
+        "fair value"
+      ],
+      "correctAnswer": "fair value",
+      "explanation": "fair value is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-foreign-currency-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "foreign-currency",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"foreign currency\" mean?",
+      "options": [
+        "A currency other than the entity's functional or reporting currency.",
+        "Amounts owed by customers for goods or services already provided.",
+        "Spending to acquire, improve, or maintain long-term assets.",
+        "The direct cost of products or services sold during a period."
+      ],
+      "correctAnswer": "A currency other than the entity's functional or reporting currency.",
+      "explanation": "foreign currency means a currency other than the entity's functional or reporting currency."
+    },
+    {
+      "id": "q-sample-report-vocabulary-foreign-currency-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "foreign-currency",
+      "questionType": "context-mcq",
+      "questionText": "The report also discusses ______ exposure, interest rate risk, credit risk, fair value measurements, derivatives, and contingencies.",
+      "options": [
+        "cost of sales",
+        "accounts receivable",
+        "capital expenditures",
+        "foreign currency"
+      ],
+      "correctAnswer": "foreign currency",
+      "explanation": "The sentence describes foreign currency: A currency other than the entity's functional or reporting currency."
+    },
+    {
+      "id": "q-sample-report-vocabulary-foreign-currency-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "foreign-currency",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: a currency other than the entity's functional or reporting currency.",
+      "options": [
+        "cost of sales",
+        "accounts receivable",
+        "capital expenditures",
+        "foreign currency"
+      ],
+      "correctAnswer": "foreign currency",
+      "explanation": "foreign currency is the term that matches this definition."
+    },
+    {
+      "id": "q-sample-report-vocabulary-free-cash-flow-1",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "free-cash-flow",
+      "questionType": "meaning-mcq",
+      "questionText": "What does \"free cash flow\" mean?",
+      "options": [
+        "Cash generated by operations after capital expenditures.",
+        "Amounts owed by customers for goods or services already provided.",
+        "The risk that a counterparty will fail to meet its financial obligations.",
+        "Spending to acquire, improve, or maintain long-term assets."
+      ],
+      "correctAnswer": "Cash generated by operations after capital expenditures.",
+      "explanation": "free cash flow means cash generated by operations after capital expenditures."
+    },
+    {
+      "id": "q-sample-report-vocabulary-free-cash-flow-2",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "free-cash-flow",
+      "questionType": "context-mcq",
+      "questionText": "Management noted that liquidity remained strong because operating cash flow exceeded capital expenditures, resulting in positive ______.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "free cash flow",
+      "explanation": "The sentence describes free cash flow: Cash generated by operations after capital expenditures."
+    },
+    {
+      "id": "q-sample-report-vocabulary-free-cash-flow-3",
+      "unitId": "unit-sample-report-vocabulary",
+      "vocabWordId": "free-cash-flow",
+      "questionType": "reverse-mcq",
+      "questionText": "Which term means: cash generated by operations after capital expenditures.",
+      "options": [
+        "accounts receivable",
+        "credit risk",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "correctAnswer": "free cash flow",
+      "explanation": "free cash flow is the term that matches this definition."
+    }
+  ]
+}
